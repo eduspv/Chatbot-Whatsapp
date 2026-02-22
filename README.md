@@ -179,18 +179,11 @@ Para produção recomenda-se:
 
 ------------------------------------------------------------------------
 
-## 📈 Próximas Evoluções
-
--   Integração com banco de dados\
--   Registro de histórico de mensagens\
--   Integração com IA\
--   Painel administrativo\
--   Atendimento humano (handoff)\
--   Deploy em VPS (Hostinger)
-
-------------------------------------------------------------------------
 
 ## 👨‍💻 Autor
+
+-   Eduardo Serra Pierre Vidal
+
 
 Projeto desenvolvido para estudo e implementação de automação de
 atendimento via WhatsApp.
